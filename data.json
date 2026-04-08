@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "firstName": "Nithin",
   "lastName": "Gidigi",
   "phone": "9440246101",
@@ -10,10 +10,23 @@
     "subdistrict": "sydapuram",
     "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407"
   },
-  "gallery": [],
-  "videos": [],
-  "village": "utukur-sydapuram-sri-potti-sriramulu-nellore-andhra-pradesh-524407",
-  "about": "",
-  "social": [],
-  "slides": []
+  "gallery": [
+    "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1",
+    "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1",
+    "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1"
+    
+  ],
+  "videos": [
+    "https://www.youtube.com/watch?v=COmFeL0PMuE",
+    "https://www.youtube.com/watch?v=aQiSSyy0Ou4"
+  ],
+  "village": "doultabad-hathnoora-sangareddy-telangana-502296",
+  "about": "12+ years of dual teaching expertise\nSpecialized in Electrical & Electronics Engineering (EEE)\nProven track record in higher education and school pedagogy\nExpert in curriculum development and technical instruction\nPassionate educator committed to academic excellence",
+  "social": [{ "name": "YouTube", "url": "https://www.youtube.com/@pellimelamindia" }, { "name": "WhatsApp", "url": "https://wa.me/919440246101" }]
+  "slides": [
+    { "img": "https://yt3.ggpht.com/Pt31lfiWww7iVhMHY6aQuCvtaHdBozXfBSucrQr28F1k1xWLxSzqA-QFQ7Fb0CEjRsI__7HiQQ8i=s800-rw-nd-v1", "link": "https://vidhwaan.com" },
+    { "img": "https://yt3.ggpht.com/c1ppFkOP5qdzOdPd9Y_5mSPivOhi19X4qbBVux4uxksBvoaqCM5svNHgoOXCqKHF4ZiTjHtZndov6Ng=s800-rw-nd-v1", "link": "" },
+    { "img": "https://yt3.ggpht.com/bHJDuPBN2o0z_8iYG8Kx2v0TiDN3TYcyKWVCc2spxIuYylCb49sggT9r3nOu_TRM6wPI7--OcWwwSQ=s800-c-fcrop64=1,25990000da66ffff-rw-nd-v1", "link": "" }
+ 
+  ]
 }
